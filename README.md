@@ -11,10 +11,9 @@ While “Help Johnny” primarily falls under the First-Person Shooter (FPS) gen
 •	Story-driven: Immerse yourself in a narrative-rich experience
 •	Tactical: Employ strategic thinking and tactical decision-making as you navigate through enemy-infested areas, utilizing the environment and your arsenal to gain an advantage.
 
-Platforms
+Platforms\n
 “Help Johnny” will be released exclusively for the PC platform, providing an immersive gaming experience tailored specifically for personal computers.
 
-Target Audience
 The target audience for “Help Johnny” extends beyond specific age groups or locales, focusing on players who appreciate the visual charm, accessible gameplay, and immersive experience offered by low-poly games. Here is an overview of possible audiences:
 •	Casual Gamers: “Help Johnny” targets casual gamers who prefer accessible and easy-to-learn gameplay experiences. The low-poly art style often appeals to this audience as it provides a visually appealing and charming aesthetic.
 •	Nostalgic Gamers: The low-poly art style may resonate with gamers who have a nostalgic attachment to the early days of gaming, reminiscent of classic titles from the past.
